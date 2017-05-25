@@ -1,0 +1,22 @@
+.container{
+    height: center;
+    background-image: url("../assets/image/board.jpg");
+    background-size: 65%; 
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.table {
+    border-color: white;
+    margin-left: 380px;
+    margin-top: 45px;
+    color:white;
+    width:590px;
+    height:500px;
+}
+
+.table img {
+    height: 50px;
+    width: 50px;
+    margin-left: 12px;
+}
